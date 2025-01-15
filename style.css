@@ -25,20 +25,13 @@ h2 {
   margin-top: -10px;
 }
 
-#start {
-  border-radius: 28px;
-}
-
 img {
   border-radius: 28px;
 }
 
 #legend {
-  color: #333333;
   font-style: italic;
-  padding-top: 8px;
-  padding-left: 15px;
-  padding-bottom: 10px;
+  padding: 8px 0px 10px 15px;
 }
 
 span {
@@ -52,8 +45,7 @@ p {
 
 h2+p {
   margin: 0;
-  padding-top: 2px;
-  padding-bottom: 64px;
+  padding: 2px 0px 64px 0px;
 }
 
 h2 {
@@ -62,8 +54,7 @@ h2 {
 
 h3 {
   margin: 0;
-  padding-top: 20px;
-  padding-left: 8px;
+  padding: 20px 0px 0px 8px;
   font-size: 28px;
   font-weight: bold;
 }
@@ -118,8 +109,7 @@ li::marker {
 
 footer {
   text-align: center;
-  margin-right: 20px;
-  margin-top: 4rem;
+  margin: 4rem 20px 0px 0px;
   font-family: "Alice", serif;
   color: #333333;
 }
